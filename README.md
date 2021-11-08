@@ -13,9 +13,8 @@
 
 **2、炉石必须要在开始界面、窗口模式且分辨率为，选择分辨率之后不要动窗口！！如下：**
 
-[![I8cwZD.md.png](https://z3.ax1x.com/2021/11/08/I8cwZD.md.png)](https://imgtu.com/i/I8cwZD)
-
+![I8cwZD.md.png](https://z3.ax1x.com/2021/11/08/I8cwZD.md.png)
 
 3、全部选项选择完成后，点击运行后点最小化窗口，就可以运行脚本
 
-[![I8cqyV.png](https://z3.ax1x.com/2021/11/08/I8cqyV.png)](https://imgtu.com/i/I8cqyV)
+![I8cqyV.png](https://z3.ax1x.com/2021/11/08/I8cqyV.png)
