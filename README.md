@@ -1,7 +1,7 @@
 # hearstone_script
 炉石传说佣兵战纪坐牢脚本
 
-下载链接：https://wwe.lanzoui.com/iS3FNwabs9a
+下载链接：https://wwe.lanzoui.com/iP9GJwajppg
 
 说明：本脚本目前只测试过在腾讯云windows2019 seaver上正常运行，其他windows平台暂未测试，有问题提交issue
 
