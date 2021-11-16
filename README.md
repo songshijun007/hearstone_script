@@ -1,7 +1,7 @@
 # hearstone_script
 炉石传说佣兵战纪坐牢脚本
 
-下载链接：https://wwe.lanzoui.com/iMSiFwkc7de （密码到公众号回复“佣兵”）
+下载链接：https://wwe.lanzoui.com/iGkFVwkctad （密码到公众号回复“佣兵”）
 
 **防止迷路，烦请关注公众号，首发新版兄弟以及测评论各类挂机云服务器：**
 
