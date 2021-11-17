@@ -1,4 +1,7 @@
 # hearstone_script
+
+**炉石兄弟及云电脑挂机教程**：https://github.com/songshijun007/hearthbuddy
+
 炉石传说佣兵战纪坐牢脚本
 
 下载链接：https://wwe.lanzoui.com/iGkFVwkctad （密码到公众号回复“佣兵”）
