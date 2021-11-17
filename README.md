@@ -16,6 +16,8 @@
 
 1、解压后，首次使用需要点00、01、02安装Python和进行环境配置，**主要第一步00需要勾选下面两个框：**
 
+![I4rf0A.md.png](https://z3.ax1x.com/2021/11/17/I4rf0A.md.png)
+
 ![IfNJ7F.md.png](https://z3.ax1x.com/2021/11/16/IfNJ7F.md.png)
 
 2、配置完成后，以后每次用就只需要执行03
