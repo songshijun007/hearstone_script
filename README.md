@@ -8,7 +8,7 @@
 
 **防止迷路，烦请关注公众号，首发新版兄弟以及测评论各类挂机云服务器：**
 
-![](https://z3.ax1x.com/2021/11/06/IMGzin.jpg)
+![](https://ae02.alicdn.com/kf/H77c1047f57c54bee8393bd37290c9911E.png)
 
 说明：本脚本目前只测试过在腾讯云windows2019 seaver上正常运行，其他windows平台暂未测试，有问题提交issue
 
